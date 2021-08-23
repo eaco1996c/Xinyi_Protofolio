@@ -37,6 +37,7 @@ Many environmental protection data analysis projects have focused on greenhouse 
 ## [Project 4: OCR form recognization with CNN for Image Classification](https://github.com/eaco1996c/OCR_CNN_form_recognization)
 
 This project is a computer vision project. The purpose is to recognize texts from image files with similar patterns. The dataset used is a set of burial records from a cemetery. 
+Two solutions of OCR are included. One of them is pytesseract with Python, the other is automate cloud workflow on **[Microsoft Azure](https://azure.microsoft.com/en-us/)**, one of the largest cloud services platforms.
 
 Burial records are important evidence for cemetery service management. They often contain the name of the deceased and the detailed location and date of the burial. Because of the large time span since the burial service started, many dated  records have not been electronicized, and there are handwritten records. This project aims to digitize these records. Digitalization of these records helps maintain them as well as analysis on historical populations. Also, digitized records are more convenient for review and long-term preservation.
 
