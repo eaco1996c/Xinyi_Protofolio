@@ -24,7 +24,7 @@ This project is about to build a binary classifier which can predict the churnin
 ## [Project 3: Big Data Time Series Analysis on Databricks](https://github.com/eaco1996c/metadata_timeseries_Databricks)
 
 This is a metadata project with **~2.65 Million** records and 17 attributes. The dataset is from Kaggle by 
-[**Danilo Lessa Bernardineli**](https://danlessa.github.io/), accessed from https://www.kaggle.com/danlessa/brazilian-bird-observation-metadata-from-wikiaves#.
+[**Danilo Lessa Bernardineli**](https://danlessa.github.io/), accessed from [Kaggle](https://www.kaggle.com/danlessa/brazilian-bird-observation-metadata-from-wikiaves#).
 
 Many environmental protection data analysis projects have focused on greenhouse gas emissions and the cyclical movement of ocean currents. However, there is another topic to care about, the record and research of ecological species. The data used to record species are generally large-scale data containing essential information. It needs to be processed basically with a scale of millions at one time. Ecological species research pays more attention to overall trends rather than individual details. Therefore, analyzing ecological species change can be an excellent choice to utilize big data.
 
