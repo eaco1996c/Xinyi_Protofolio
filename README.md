@@ -34,7 +34,7 @@ Many environmental protection data analysis projects have focused on greenhouse 
 
 
 
-## [Project 4: OCR form recognization with CNN for Image Classification](https://github.com/eaco1996c/OCR_CNN_form_recognization)
+## [Project 4: OCR Form Recognition with CNN for Image Classification](https://github.com/eaco1996c/OCR_CNN_form_recognization)
 
 This project is a computer vision project. The purpose is to recognize texts from image files with similar patterns. The dataset used is a set of burial records from a cemetery. 
 Two solutions of OCR are included. One of them is pytesseract with Python, the other is automate cloud workflow on **[Microsoft Azure](https://azure.microsoft.com/en-us/)**, one of the largest cloud services platforms.
