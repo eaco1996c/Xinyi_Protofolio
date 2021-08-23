@@ -21,7 +21,7 @@ This project is about to build a binary classifier which can predict the churnin
 
 
 
-## [Project 3: Big Data_Time Series_Analysis on Databricks](https://github.com/eaco1996c/metadata_timeseries_Databricks)
+## [Project 3: Big Data Time Series Analysis on Databricks](https://github.com/eaco1996c/metadata_timeseries_Databricks)
 
 This is a metadata project with **~2.65 Million** records and 17 attributes. The dataset is from Kaggle by 
 [**Danilo Lessa Bernardineli**](https://danlessa.github.io/), accessed from https://www.kaggle.com/danlessa/brazilian-bird-observation-metadata-from-wikiaves#.
@@ -34,7 +34,7 @@ Many environmental protection data analysis projects have focused on greenhouse 
 
 
 
-## [Project 4: OCR_form_recognization with CNN for Image Classification](https://github.com/eaco1996c/OCR_CNN_form_recognization)
+## [Project 4: OCR form recognization with CNN for Image Classification](https://github.com/eaco1996c/OCR_CNN_form_recognization)
 
 This project is a computer vision project. The purpose is to recognize texts from image files with similar patterns. The dataset used is a set of burial records from a cemetery. 
 
@@ -47,7 +47,7 @@ Burial records are important evidence for cemetery service management. They ofte
 
 
 
-## [Project 5: NLP_TopicModeling_with LDA Model Analysis](https://github.com/eaco1996c/NLP_TopicModeling_LDA)
+## [Project 5: NLP TopicModeling with LDA Model Analysis](https://github.com/eaco1996c/NLP_TopicModeling_LDA)
 
 This a NLP course practice project with R. The main purpose is to utilizing Topic Modeling across three well-known novels, _Twenty Thousand Leagues under the Sea_,
 _The War of the Worlds_, _Wuthering Heights_. 
