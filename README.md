@@ -1,7 +1,7 @@
 # Xinyi_Luo
 
 
-## [Project 1: Customer Segmentation with Unsupervised KNN Model & RFM Customer Value Analysis](https://github.com/eaco1996c/Customer_Segmentation_KNN_RFM)
+## [Project 1: Customer Segmentation with Unsupervised K-Means Model & RFM Customer Value Analysis](https://github.com/eaco1996c/Customer_Segmentation_KMeans_RFM)
 
 This project aims to establish a customers segmentation for telecom consumption. The target is to divide them into 3 stages of different “maintaining value”, high-value customers, medium-value customers and lower-value customers with the RFM(Recency, Frequency and Monetary) evaluation. Based on the "maintaining value", analysis on clusters is applied to profile high value customers in order to establish consumption attracting business methods.
 
