@@ -1,4 +1,4 @@
-# Xinyi_Portfolio
+# Xinyi_Luo
 
 
 ## [Project 1: Customer Segmentation with Unsupervised KNN Model & RFM Customer Value Analysis](https://github.com/eaco1996c/Customer_Segmentation_KNN_RFM)
